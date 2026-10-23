@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Bhu-Drishti
 
 A local-first geospatial research workspace. This implementation prioritizes actual file ingestion, metadata inspection, reproducible raster statistics, strict pixel-difference screening, persisted job records, explicit verification states, lexical text retrieval, low-level visual exemplar retrieval, and JSON/CSV reports. It does not require an API key.
@@ -81,3 +82,7 @@ Uploaded files are stored under `uploads/`, generated analysis JSON under `outpu
 ## Security notes
 
 Uploads are size-limited, stored under generated IDs, and duplicate content is detected by SHA-256. The development server is intended for local use, not direct public exposure. Review allowed CORS origins and add authentication before deployment to a shared network.
+=======
+# BhuDrishti
+Agentic vision-language intelligence for satellite imagery analysis
+>>>>>>> 22be96f118e7d2103cea85e3efd71ff3c07b85b0
